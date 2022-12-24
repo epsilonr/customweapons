@@ -1,7 +1,7 @@
 ## Custom Weapons
 
 * Type all dependents about model to the configs/empyrean/downloads.txt
-* Configure configs/empyrean/customweapons.txt file with classname of wanted weapon
+* Configure configs/empyrean/customweapons.txt file with `classname` of wanted weapon
 * `v_model` stands for `view model`
 * `w_model` stands for `world model`
 * `wd_model` stands for `dropped model`

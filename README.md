@@ -4,4 +4,4 @@
 * Configure configs/empyrean/customweapons.txt file with classname of wanted weapon
 
 ### IMPORTANT NOTE
-### You must use server side models and your .mdl file must not be directly inside `models/weapons` folder.
+You must use server side models and your .mdl file must not be directly inside `models/weapons` folder.

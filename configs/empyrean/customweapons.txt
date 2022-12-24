@@ -1,0 +1,9 @@
+"CustomWeapons"
+{
+	//"weapon_ak47"
+	//{
+	//	"v_model" "models/weapons/altf4/buffak_d3a3/v_buffak_d3a3.mdl"
+	//	"w_model" "models/weapons/altf4/buffak_d3a3/w_buffak_d3a3.mdl"
+	//	"wd_model" "models/weapons/altf4/buffak_d3a3/w_dropped_buffak_d3a3.mdl"
+	//}
+}

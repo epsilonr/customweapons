@@ -1,0 +1,18 @@
+// Some AK47 Model Example
+// models/weapons/altf4/buffak_d3a3/v_buffak_d3a3.dx90.vtx
+// models/weapons/altf4/buffak_d3a3/v_buffak_d3a3.mdl
+// models/weapons/altf4/buffak_d3a3/v_buffak_d3a3.vvd
+// models/weapons/altf4/buffak_d3a3/w_buffak_d3a3.dx90.vtx
+// models/weapons/altf4/buffak_d3a3/w_buffak_d3a3.mdl
+// models/weapons/altf4/buffak_d3a3/w_buffak_d3a3.vvd
+// models/weapons/altf4/buffak_d3a3/w_dropped_buffak_d3a3.dx90.vtx
+// models/weapons/altf4/buffak_d3a3/w_dropped_buffak_d3a3.mdl
+// models/weapons/altf4/buffak_d3a3/w_dropped_buffak_d3a3.vvd
+// materials/models/weapons/altf4/buffak_d3a3/ak-47buff601_v.vmt
+// materials/models/weapons/altf4/buffak_d3a3/ak-47buff601_v.vtf
+// materials/models/weapons/altf4/buffak_d3a3/ak-47buff601_v_n.vtf
+// materials/models/weapons/altf4/buffak_d3a3/ak-47buff602_v.vmt
+// materials/models/weapons/altf4/buffak_d3a3/ak-47buff602_v_n.vtf
+// materials/models/weapons/altf4/buffak_d3a3/cso_highq_hand__long_512.vmt
+// materials/models/weapons/altf4/buffak_d3a3/cso_highq_hand__long_512.vtf
+// materials/models/weapons/altf4/buffak_d3a3/cso_highq_hand__long_512_n.vmt
